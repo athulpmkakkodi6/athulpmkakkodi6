@@ -1,33 +1,47 @@
 ## 👋 About Me
 
-I'm **Athul PM**, a **Python Developer, Backend Architect, and CTO at Brandstrek Coders LLP**, focused on building scalable, reliable, and production-ready digital products.
+I'm **Athul PM**, a **Full-Stack Developer and CTO at Brandstrek Coders LLP**, passionate about building scalable, reliable, and production-ready digital products.
 
-I enjoy turning complex business requirements into well-structured software — from backend architecture and APIs to databases, cloud infrastructure, AI integrations, and complete web and mobile platforms.
+I work across the full software development lifecycle — from designing backend architecture and APIs to building modern web applications, databases, cloud infrastructure, and AI-powered solutions.
 
 ### 🚀 What I Work With
 
-* 🐍 **Python, Django & FastAPI** — backend systems and REST APIs
-* 🗄️ **PostgreSQL, MySQL & Redis** — data and high-performance systems
-* ⚡ **Celery & background processing** — asynchronous and distributed workloads
-* ☁️ **AWS, Docker & Linux** — deployment and cloud infrastructure
-* 🌐 **Next.js, React & Flutter** — modern web and mobile applications
+* 🐍 **Python, Django & FastAPI** — backend development and REST APIs
+* ⚛️ **React & Next.js** — modern, scalable web applications
+* 🟨 **JavaScript & TypeScript** — frontend and full-stack development
+* 🗄️ **PostgreSQL, MySQL & Redis** — databases and high-performance systems
+* ⚡ **Celery & Background Jobs** — asynchronous and distributed processing
+* ☁️ **AWS, Docker & Linux** — cloud infrastructure and deployment
+* 📱 **Flutter** — cross-platform mobile applications
 * 🤖 **AI, LLMs & RAG** — intelligent applications and automation
-* 🏗️ **System Architecture** — scalable APIs, services, integrations and production systems
+
+### 🏗️ What I Build
+
+I enjoy building complete products — from **idea to production**.
+
+My experience includes:
+
+* SaaS platforms
+* ERP & business management systems
+* Rental & marketplace platforms
+* REST APIs and backend services
+* Customer, vendor & admin applications
+* AI-powered applications
+* Payment & third-party integrations
+* Cloud-based production systems
 
 ### 🧠 Engineering Philosophy
 
-I believe good software is more than code that works.
+I believe great software should be **simple to understand, reliable in production, scalable when the business grows, and easy for teams to maintain**.
 
-I focus on **clean architecture, maintainability, scalability, performance, security, and developer experience** — while keeping the business problem at the center of every technical decision.
-
-I'm also passionate about mentoring developers, improving engineering workflows, and helping teams turn ideas into production-ready products.
+I enjoy solving complex technical problems, designing systems, improving development workflows, and helping teams turn business ideas into real products.
 
 ### 🔭 Currently Exploring
 
-**AI Engineering • RAG Systems • Scalable Backend Architecture • Cloud Infrastructure • Automation • Distributed Systems**
+**AI Engineering • RAG Systems • Full-Stack Architecture • Cloud Infrastructure • Distributed Systems • Automation**
 
 ### 💡 Beyond Coding
 
-I enjoy working at the intersection of **technology, products, and business** — understanding the problem, designing the solution, building the system, and seeing it reach real users.
+As a technical leader, I enjoy working at the intersection of **technology, product, and business** — understanding the problem, designing the solution, building the product, and seeing it reach real users.
 
-> **Build things that solve real problems. Keep learning. Keep improving.**
+> **Build. Learn. Improve. Repeat. 🚀**
